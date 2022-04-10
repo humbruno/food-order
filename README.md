@@ -16,6 +16,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src=".github/preview.png" width="100%" />
+</p>
+
 ## 💻 Project
 
 Simple **React** food ordering app with a Cart function, controlled using `useContext` and `useReducer`.
