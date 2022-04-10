@@ -32,7 +32,7 @@ Simple **React** food ordering app with a Cart function, controlled using `useCo
 Close this repository and navigate into the directory.
 
 ```bash
-# Instalalling all dependencies
+# Installing all dependencies
 $ npm install
 
 # Executing the application
