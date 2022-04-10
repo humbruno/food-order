@@ -1,8 +1,16 @@
+import React from "react";
+
+import Header from "./components/Layout/Header";
+import Meals from "./components/Meals/Meals";
+
 function App() {
   return (
-    <div>
-      <h1>olar mundo</h1>
-    </div>
+    <React.Fragment>
+      <Header />
+      <main>
+        <Meals />
+      </main>
+    </React.Fragment>
   );
 }
 
